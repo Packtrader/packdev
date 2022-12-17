@@ -42,8 +42,9 @@
 }
 
 .close__btn__container {
-	text-align: right;
-	margin: 2rem 3rem;
+	/* text-align: right; */
+	align-items: left;
+	/* margin: 2rem 3rem; */
 }
 
 .navigation__close__btn {

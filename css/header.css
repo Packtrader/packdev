@@ -49,7 +49,7 @@
 .header__nav__btn.menu__btn {
 	display: none;
 }
-@media screen and (max-width: 412px){
+@media screen and (max-width: 500px){
 	.header__nav__btn.menu__btn {
 		display: inline-block;
 	}
