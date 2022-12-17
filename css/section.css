@@ -12,7 +12,7 @@
 .section.one {
 	background-image: url(../img/01Ds.jpg);
 }
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 500px) {
 	.section.one {
 		background-image: url(../img/01mobile-bg.png);
 	}
