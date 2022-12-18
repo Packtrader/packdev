@@ -100,6 +100,18 @@
 	color: var(--primary-color);
 	/* color: #696969; */
 }
+.section__content3 {
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 100%;
+	text-align: center;
+	/* padding: 50px; */
+	text-transform: capitalize;
+	color: var(--primary-color);
+	/* color: #696969; */
+}
 
 .section__content__title {
 	font-size: 4rem;
