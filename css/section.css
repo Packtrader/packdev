@@ -14,32 +14,62 @@
 }
 @media screen and (max-width: 500px) {
 	.section.one {
-		background-image: url(../img/01mobile-bg.png);
+		background-image: url(../img/01Mb.jpg);
 	}
 }
 
 .section.two {
 	background-image: url(../img/02Ds.jpg);
 }
+@media screen and (max-width: 500px) {
+	.section.two {
+		background-image: url(../img/02Mb.jpg);
+	}
+}
 
 .section.three {
-	background-image: url(https://img3.goodfon.com/wallpaper/nbig/c/b1/fog-night-roaming-soft-light.jpg);
+	background-image: url(../img/03Ds.jpg);
+}
+@media screen and (max-width: 500px) {
+	.section.three {
+		background-image: url(../img/03Mb.jpg);
+	}
 }
 
 .section.four {
 	background-image: url(../img/04Ds.jpg);
 }
+@media screen and (max-width: 500px) {
+	.section.four {
+		background-image: url(../img/04Mb.jpg);
+	}
+}
 
 .section.five {
 	background-image: url(../img/05Ds.jpg);
+}
+@media screen and (max-width: 500px) {
+	.section.five {
+		background-image: url(../img/05Mb.jpg);
+	}
 }
 
 .section.six {
 	background-image: url(../img/06Ds.jpg);
 }
+@media screen and (max-width: 500px) {
+	.section.six {
+		background-image: url(../img/06Mb.jpg);
+	}
+}
 
 .section.seven {
 	background-image: url(../img/07Ds.jpg);
+}
+@media screen and (max-width: 500px) {
+	.section.seven {
+		background-image: url(../img/07Mb.jpg);
+	}
 }
 /* .section.seven {
 	background-image: url(../media/7.avif);
@@ -48,6 +78,19 @@
 .section__content {
 	position: absolute;
 	top: 20%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 100%;
+	text-align: center;
+	/* padding: 50px; */
+	text-transform: capitalize;
+	color: var(--primary-color);
+	/* color: #696969; */
+}
+
+.section__content2 {
+	position: absolute;
+	top: 25%;
 	left: 50%;
 	transform: translateX(-50%);
 	width: 100%;
