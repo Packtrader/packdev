@@ -100,7 +100,7 @@
 	color: var(--primary-color);
 	/* color: #696969; */
 }
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1024px) {
 	.section__content2 {
 		position: absolute;
 		top: 20%;
