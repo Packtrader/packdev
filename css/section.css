@@ -12,7 +12,7 @@
 .section.one {
 	background-image: url(../img/01Ds.jpg);
 }
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1030px) {
 	.section.one {
 		background-image: url(../img/01Mb.jpg);
 	}
@@ -21,7 +21,7 @@
 .section.two {
 	background-image: url(../img/02Ds.jpg);
 }
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1030px) {
 	.section.two {
 		background-image: url(../img/02Mb.jpg);
 	}
@@ -30,7 +30,7 @@
 .section.three {
 	background-image: url(../img/03Ds.jpg);
 }
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1030px) {
 	.section.three {
 		background-image: url(../img/03Mb.jpg);
 	}
