@@ -12,7 +12,7 @@
 .section.one {
 	background-image: url(../img/01Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1199px) {
 	.section.one {
 		background-image: url(../img/01Mb.jpg);
 	}
@@ -21,7 +21,7 @@
 .section.two {
 	background-image: url(../img/02Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1199px) {
 	.section.two {
 		background-image: url(../img/02Mb.jpg);
 	}
@@ -30,7 +30,7 @@
 .section.three {
 	background-image: url(../img/03Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1199px) {
 	.section.three {
 		background-image: url(../img/03Mb.jpg);
 	}
@@ -39,34 +39,34 @@
 .section.four {
 	background-image: url(../img/04Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 1050px) {
 	.section.four {
 		background-image: url(../img/04Mb.jpg);
 	}
-}
+} */
 
 .section.five {
 	background-image: url(../img/05Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 1050px) {
 	.section.five {
 		background-image: url(../img/05Mb.jpg);
 	}
-}
+} */
 
 .section.six {
 	background-image: url(../img/06Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 1050px) {
 	.section.six {
 		background-image: url(../img/06Mb.jpg);
 	}
-}
+} */
 
 .section.seven {
 	background-image: url(../img/07Ds.jpg);
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1199px) {
 	.section.seven {
 		background-image: url(../img/07Mb.jpg);
 	}
