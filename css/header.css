@@ -58,3 +58,24 @@
 .header__middle .header__nav__btn {
 	margin-right: 2rem;
 }
+
+.Contact {
+	display: none;
+}
+@media screen and (max-width: 990px){
+	.Contact {
+		justify-content: space-between;
+		display: flex;
+		padding: 0 30px;
+		text-align: left;
+	}
+}
+.Contact1 {
+	padding: 0 70px;
+	text-align: left;
+}
+@media screen and (max-width: 990px){
+	.Contact1 {
+		display: none;
+	}
+}
