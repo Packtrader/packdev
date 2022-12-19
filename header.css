@@ -21,8 +21,8 @@
 }
 
 .header__logo {
-	height: 100px;
-	width: 150px;
+	height: 90px;
+	width: 135px;
 	display: flex;
 }
 
@@ -49,7 +49,7 @@
 .header__nav__btn.menu__btn {
 	display: none;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 1199px){
 	.header__nav__btn.menu__btn {
 		display: inline-block;
 	}
@@ -57,4 +57,25 @@
 
 .header__middle .header__nav__btn {
 	margin-right: 2rem;
+}
+
+.Contact {
+	display: none;
+}
+@media screen and (max-width: 990px){
+	.Contact {
+		justify-content: space-between;
+		display: flex;
+		padding: 0 30px;
+		text-align: left;
+	}
+}
+.Contact1 {
+	padding: 0 70px;
+	text-align: left;
+}
+@media screen and (max-width: 990px){
+	.Contact1 {
+		display: none;
+	}
 }
