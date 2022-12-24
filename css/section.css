@@ -19,7 +19,7 @@
 }
 
 .section.two {
-	background-image: url(../img/02Ds.jpg);
+	background-image: url(../img/02Ds2.jpg);
 }
 @media screen and (max-width: 1030px) {
 	.section.two {
@@ -41,7 +41,7 @@
 }
 @media screen and (max-width: 1030px) {
 	.section.four {
-		background-image: url(../img/04Mb3.jpg);
+		background-image: url(../img/04Mb2.jpg);
 	}
 }
 
@@ -50,7 +50,7 @@
 }
 @media screen and (max-width: 1030px) {
 	.section.five {
-		background-image: url(../img/05Mb2.jpg);
+		background-image: url(../img/05Mb3.jpg);
 	}
 }
 
